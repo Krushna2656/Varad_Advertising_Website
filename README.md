@@ -45,7 +45,7 @@ A demonstration video showcasing the website's interface, navigation, and overal
 
 ### Website Preview
 
-![Varad Advertising Website Preview](assets/website-preview.png)
+![Varad Advertising Website Preview](https://github.com/Krushna2656/Varad_Advertising_Website/raw/refs/heads/main/assets/website-preview.png)
 
 
 
