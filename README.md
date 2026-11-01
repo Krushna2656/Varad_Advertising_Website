@@ -40,7 +40,7 @@ The project focuses on creating an engaging digital presence for a local adverti
 
 A demonstration video showcasing the website's interface, navigation, and overall user experience.
 
-**[▶ Watch Website Demo]((https://youtu.be/aIXmcHmcQ9M))**
+[![Watch Varad Advertising Website Demo](https://img.youtube.com/vi/aIXmcHmcQ9M/maxresdefault.jpg)](https://youtu.be/aIXmcHmcQ9M)
 
 
 ### Website Preview
