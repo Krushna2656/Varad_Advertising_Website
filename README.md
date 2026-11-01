@@ -42,13 +42,12 @@ A demonstration video showcasing the website's interface, navigation, and overal
 
 **[▶ Watch Website Demo]((https://youtu.be/aIXmcHmcQ9M))**
 
-> Replace `YOUR_DEMO_VIDEO_LINK` with the actual URL of your uploaded demonstration video.
 
 ### Website Preview
 
 ![Varad Advertising Website Preview](assets/website-preview.png)
 
-> Add a screenshot at `assets/website-preview.png` to display a visual preview here.
+
 
 ---
 
